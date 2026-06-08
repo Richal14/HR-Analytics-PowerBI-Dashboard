@@ -25,3 +25,6 @@ This project analyzes employee data to understand attrition trends and workforce
 
 ## Dataset
 - HR_Analytics_Dataset.csv
+  
+## Dashboard Overview
+<img width="1580" height="948" alt="image" src="https://github.com/user-attachments/assets/1390a9a8-510a-4150-acfa-0daaedbc4bfb" />
